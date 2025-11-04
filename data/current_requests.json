@@ -1,0 +1,1590 @@
+[
+  {
+    "event_id": "EVT-2026-001",
+    "client_id": "CLI-158",
+    "client_name": "Barrows, Block and Cole",
+    "event_name": "Quality-focused intangible policy 2026",
+    "event_type": "product_launch",
+    "attendee_count": 139,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-07-15",
+      "2026-07-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 6,
+    "budget": 44377,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Midwest",
+    "location_requirements": {
+      "region": [
+        "Southeast"
+      ],
+      "cities": [
+        "Chicago",
+        "San Diego",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 13
+    },
+    "required_amenities": [
+      "stage",
+      "virtual_streaming",
+      "av_equipment",
+      "breakout_rooms",
+      "outdoor_space",
+      "catering"
+    ],
+    "preferred_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment",
+      "virtual_streaming"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "green room needed",
+      "dietary restrictions catering",
+      "loading dock access",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 8,
+    "client_preferences": [
+      "modern facilities",
+      "responsive staff",
+      "natural light"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-002",
+    "client_id": "CLI-818",
+    "client_name": "Bruen and Sons",
+    "event_name": "Monitored scalable capacity 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 339,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-10-15",
+      "2026-10-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 4,
+    "budget": 135124,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "Midwest"
+      ],
+      "cities": [
+        "Los Angeles",
+        "Seattle",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 22
+    },
+    "required_amenities": [
+      "av_equipment",
+      "breakout_rooms",
+      "virtual_streaming",
+      "parking",
+      "catering",
+      "wifi"
+    ],
+    "preferred_amenities": [
+      "outdoor_space",
+      "catering",
+      "breakout_rooms",
+      "wifi"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "green room needed",
+      "accessible venue required"
+    ],
+    "past_events_with_us": 2,
+    "client_preferences": [
+      "responsive staff",
+      "strong AV support",
+      "experienced event team"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-003",
+    "client_id": "CLI-659",
+    "client_name": "Tromp, Rowe and Oberbrunner",
+    "event_name": "Decentralized optimizing paradigm 2026",
+    "event_type": "training",
+    "attendee_count": 312,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-11-15",
+      "2026-11-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 14,
+    "budget": 118622,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Southwest",
+    "location_requirements": {
+      "region": [
+        "West Coast"
+      ],
+      "cities": [
+        "San Diego",
+        "Los Angeles",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 21
+    },
+    "required_amenities": [
+      "outdoor_space",
+      "av_equipment",
+      "breakout_rooms",
+      "virtual_streaming"
+    ],
+    "preferred_amenities": [
+      "stage",
+      "catering",
+      "outdoor_space",
+      "breakout_rooms"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "stage for presentations",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 1,
+    "client_preferences": [
+      "strong AV support",
+      "experienced event team",
+      "modern facilities",
+      "natural light"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-004",
+    "client_id": "CLI-651",
+    "client_name": "Nader - Rempel",
+    "event_name": "Intuitive client-driven conglomeration 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 414,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-02-15",
+      "2026-02-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 9,
+    "budget": 130501,
+    "budget_flexibility": "firm",
+    "location_preference": "West Coast",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "San Francisco",
+        "Seattle",
+        "Los Angeles"
+      ],
+      "max_airport_distance_miles": 17
+    },
+    "required_amenities": [
+      "virtual_streaming",
+      "parking",
+      "wifi",
+      "catering",
+      "breakout_rooms",
+      "outdoor_space"
+    ],
+    "preferred_amenities": [
+      "outdoor_space",
+      "wifi"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "dietary restrictions catering",
+      "accessible venue required",
+      "green room needed",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 3,
+    "client_preferences": [
+      "modern facilities",
+      "responsive staff",
+      "experienced event team"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-005",
+    "client_id": "CLI-974",
+    "client_name": "Gerhold Inc",
+    "event_name": "Organized methodical alliance 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 222,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-01-15",
+      "2026-01-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 6,
+    "budget": 141740,
+    "budget_flexibility": "firm",
+    "location_preference": "Southeast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "Seattle",
+        "San Diego",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 25
+    },
+    "required_amenities": [
+      "virtual_streaming",
+      "wifi",
+      "outdoor_space",
+      "catering"
+    ],
+    "preferred_amenities": [
+      "outdoor_space",
+      "stage",
+      "parking"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "stage for presentations",
+      "accessible venue required",
+      "minimum 4 breakout rooms",
+      "dietary restrictions catering"
+    ],
+    "past_events_with_us": 8,
+    "client_preferences": [
+      "modern facilities",
+      "natural light",
+      "responsive staff",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-006",
+    "client_id": "CLI-908",
+    "client_name": "Yundt - Strosin",
+    "event_name": "Compatible intangible access 2026",
+    "event_type": "training",
+    "attendee_count": 133,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-02-15",
+      "2026-02-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 7,
+    "budget": 117842,
+    "budget_flexibility": "flexible",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "Seattle",
+        "Los Angeles",
+        "Boston"
+      ],
+      "max_airport_distance_miles": 29
+    },
+    "required_amenities": [
+      "av_equipment",
+      "breakout_rooms",
+      "virtual_streaming",
+      "outdoor_space",
+      "catering",
+      "parking"
+    ],
+    "preferred_amenities": [
+      "catering",
+      "breakout_rooms",
+      "outdoor_space",
+      "virtual_streaming"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "dietary restrictions catering",
+      "minimum 4 breakout rooms",
+      "accessible venue required",
+      "stage for presentations"
+    ],
+    "past_events_with_us": 2,
+    "client_preferences": [
+      "modern facilities",
+      "responsive staff",
+      "experienced event team",
+      "flexible spaces"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-007",
+    "client_id": "CLI-191",
+    "client_name": "Buckridge LLC",
+    "event_name": "Extended intermediate middleware 2026",
+    "event_type": "product_launch",
+    "attendee_count": 405,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-01-15",
+      "2026-01-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 11,
+    "budget": 67232,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "West Coast",
+    "location_requirements": {
+      "region": [
+        "Southeast"
+      ],
+      "cities": [
+        "Boston",
+        "San Diego",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 28
+    },
+    "required_amenities": [
+      "breakout_rooms",
+      "wifi",
+      "av_equipment",
+      "catering",
+      "outdoor_space",
+      "parking"
+    ],
+    "preferred_amenities": [
+      "breakout_rooms",
+      "av_equipment",
+      "stage",
+      "outdoor_space"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "minimum 4 breakout rooms",
+      "dietary restrictions catering",
+      "green room needed"
+    ],
+    "past_events_with_us": 1,
+    "client_preferences": [
+      "flexible spaces",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-008",
+    "client_id": "CLI-822",
+    "client_name": "Cormier Group",
+    "event_name": "Expanded optimizing flexibility 2026",
+    "event_type": "annual_meeting",
+    "attendee_count": 236,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-08-15",
+      "2026-08-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 6,
+    "budget": 107447,
+    "budget_flexibility": "firm",
+    "location_preference": "Southeast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "San Diego",
+        "Chicago",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 21
+    },
+    "required_amenities": [
+      "catering",
+      "virtual_streaming",
+      "breakout_rooms",
+      "outdoor_space"
+    ],
+    "preferred_amenities": [
+      "stage",
+      "virtual_streaming",
+      "parking",
+      "wifi"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "stage for presentations",
+      "dietary restrictions catering",
+      "green room needed"
+    ],
+    "past_events_with_us": 8,
+    "client_preferences": [
+      "modern facilities",
+      "responsive staff"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-009",
+    "client_id": "CLI-604",
+    "client_name": "Rice, Jacobs and Rodriguez",
+    "event_name": "Optional actuating ability 2026",
+    "event_type": "gala",
+    "attendee_count": 171,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-03-15",
+      "2026-03-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 6,
+    "budget": 53821,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Southeast",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "Boston",
+        "San Francisco",
+        "San Diego"
+      ],
+      "max_airport_distance_miles": 27
+    },
+    "required_amenities": [
+      "av_equipment",
+      "breakout_rooms",
+      "catering",
+      "stage",
+      "wifi"
+    ],
+    "preferred_amenities": [
+      "breakout_rooms",
+      "stage",
+      "catering"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "loading dock access",
+      "accessible venue required",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 0,
+    "client_preferences": [
+      "flexible spaces",
+      "natural light"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-010",
+    "client_id": "CLI-752",
+    "client_name": "Lang and Sons",
+    "event_name": "Implemented attitude-oriented microservice 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 217,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-11-15",
+      "2026-11-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 6,
+    "budget": 115171,
+    "budget_flexibility": "firm",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "Los Angeles",
+        "San Francisco",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 12
+    },
+    "required_amenities": [
+      "parking",
+      "av_equipment",
+      "virtual_streaming",
+      "breakout_rooms"
+    ],
+    "preferred_amenities": [
+      "av_equipment",
+      "wifi",
+      "stage",
+      "catering"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "dietary restrictions catering",
+      "minimum 4 breakout rooms",
+      "accessible venue required",
+      "green room needed"
+    ],
+    "past_events_with_us": 0,
+    "client_preferences": [
+      "flexible spaces",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-011",
+    "client_id": "CLI-777",
+    "client_name": "Collier - Bradtke",
+    "event_name": "Robust eco-centric forecast 2026",
+    "event_type": "product_launch",
+    "attendee_count": 476,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-08-15",
+      "2026-08-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 6,
+    "budget": 148649,
+    "budget_flexibility": "flexible",
+    "location_preference": "Southeast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "San Francisco",
+        "San Diego",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 20
+    },
+    "required_amenities": [
+      "stage",
+      "av_equipment",
+      "parking",
+      "outdoor_space",
+      "wifi"
+    ],
+    "preferred_amenities": [
+      "av_equipment",
+      "breakout_rooms"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "accessible venue required",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 0,
+    "client_preferences": [
+      "responsive staff",
+      "experienced event team",
+      "natural light"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-012",
+    "client_id": "CLI-846",
+    "client_name": "MacGyver and Sons",
+    "event_name": "Devolved systematic initiative 2026",
+    "event_type": "gala",
+    "attendee_count": 424,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-05-15",
+      "2026-05-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 6,
+    "budget": 84935,
+    "budget_flexibility": "flexible",
+    "location_preference": "West Coast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "San Diego",
+        "Seattle",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 28
+    },
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "breakout_rooms",
+      "outdoor_space",
+      "wifi"
+    ],
+    "preferred_amenities": [
+      "breakout_rooms",
+      "virtual_streaming",
+      "catering"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "stage for presentations",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 2,
+    "client_preferences": [
+      "modern facilities",
+      "experienced event team",
+      "natural light"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-013",
+    "client_id": "CLI-695",
+    "client_name": "Ferry - Carroll",
+    "event_name": "Robust explicit capability 2026",
+    "event_type": "training",
+    "attendee_count": 141,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-10-15",
+      "2026-10-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 5,
+    "budget": 69306,
+    "budget_flexibility": "firm",
+    "location_preference": "Midwest",
+    "location_requirements": {
+      "region": [
+        "Midwest"
+      ],
+      "cities": [
+        "Los Angeles",
+        "Seattle",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 16
+    },
+    "required_amenities": [
+      "wifi",
+      "av_equipment",
+      "parking",
+      "stage"
+    ],
+    "preferred_amenities": [
+      "stage",
+      "catering"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "accessible venue required",
+      "minimum 4 breakout rooms",
+      "loading dock access"
+    ],
+    "past_events_with_us": 4,
+    "client_preferences": [
+      "strong AV support",
+      "natural light"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-014",
+    "client_id": "CLI-912",
+    "client_name": "Mayert Inc",
+    "event_name": "Phased 24 hour intranet 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 489,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-04-15",
+      "2026-04-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 10,
+    "budget": 101997,
+    "budget_flexibility": "firm",
+    "location_preference": "Midwest",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "Seattle",
+        "Chicago",
+        "Los Angeles"
+      ],
+      "max_airport_distance_miles": 11
+    },
+    "required_amenities": [
+      "wifi",
+      "outdoor_space",
+      "breakout_rooms",
+      "av_equipment",
+      "catering",
+      "virtual_streaming"
+    ],
+    "preferred_amenities": [
+      "parking",
+      "wifi",
+      "virtual_streaming"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "minimum 4 breakout rooms",
+      "stage for presentations"
+    ],
+    "past_events_with_us": 7,
+    "client_preferences": [
+      "modern facilities",
+      "flexible spaces",
+      "responsive staff"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-015",
+    "client_id": "CLI-359",
+    "client_name": "Hodkiewicz - Johnston",
+    "event_name": "Compatible static adapter 2026",
+    "event_type": "training",
+    "attendee_count": 473,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-02-15",
+      "2026-02-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 7,
+    "budget": 48646,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Southwest",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "Seattle",
+        "Boston",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 29
+    },
+    "required_amenities": [
+      "av_equipment",
+      "parking",
+      "catering",
+      "virtual_streaming",
+      "wifi",
+      "breakout_rooms"
+    ],
+    "preferred_amenities": [
+      "catering",
+      "wifi"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "accessible venue required",
+      "green room needed",
+      "stage for presentations"
+    ],
+    "past_events_with_us": 7,
+    "client_preferences": [
+      "flexible spaces",
+      "responsive staff"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-016",
+    "client_id": "CLI-459",
+    "client_name": "Willms - O'Keefe",
+    "event_name": "Polarised incremental workforce 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 110,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-12-15",
+      "2026-12-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 4,
+    "budget": 40500,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Southeast",
+    "location_requirements": {
+      "region": [
+        "Midwest"
+      ],
+      "cities": [
+        "San Francisco",
+        "San Diego",
+        "Seattle"
+      ],
+      "max_airport_distance_miles": 10
+    },
+    "required_amenities": [
+      "breakout_rooms",
+      "outdoor_space",
+      "stage",
+      "catering",
+      "virtual_streaming",
+      "wifi"
+    ],
+    "preferred_amenities": [
+      "breakout_rooms",
+      "parking"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "loading dock access",
+      "green room needed",
+      "accessible venue required"
+    ],
+    "past_events_with_us": 0,
+    "client_preferences": [
+      "natural light",
+      "experienced event team",
+      "strong AV support",
+      "flexible spaces"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-017",
+    "client_id": "CLI-454",
+    "client_name": "Streich - Senger",
+    "event_name": "Horizontal transitional throughput 2026",
+    "event_type": "product_launch",
+    "attendee_count": 149,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-07-15",
+      "2026-07-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 8,
+    "budget": 50469,
+    "budget_flexibility": "firm",
+    "location_preference": "West Coast",
+    "location_requirements": {
+      "region": [
+        "Midwest"
+      ],
+      "cities": [
+        "Chicago",
+        "San Diego",
+        "Seattle"
+      ],
+      "max_airport_distance_miles": 16
+    },
+    "required_amenities": [
+      "outdoor_space",
+      "catering",
+      "stage",
+      "wifi"
+    ],
+    "preferred_amenities": [
+      "breakout_rooms",
+      "av_equipment",
+      "stage"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "accessible venue required",
+      "minimum 4 breakout rooms",
+      "dietary restrictions catering"
+    ],
+    "past_events_with_us": 6,
+    "client_preferences": [
+      "modern facilities",
+      "experienced event team",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-018",
+    "client_id": "CLI-944",
+    "client_name": "Baumbach - Connelly",
+    "event_name": "Profound modular emulation 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 321,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-11-15",
+      "2026-11-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 7,
+    "budget": 101503,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "West Coast",
+    "location_requirements": {
+      "region": [
+        "West Coast"
+      ],
+      "cities": [
+        "San Diego",
+        "San Francisco",
+        "Boston"
+      ],
+      "max_airport_distance_miles": 22
+    },
+    "required_amenities": [
+      "av_equipment",
+      "breakout_rooms",
+      "virtual_streaming",
+      "catering",
+      "outdoor_space"
+    ],
+    "preferred_amenities": [
+      "av_equipment",
+      "breakout_rooms",
+      "stage",
+      "parking"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 0,
+    "client_preferences": [
+      "modern facilities",
+      "natural light",
+      "flexible spaces",
+      "experienced event team"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-019",
+    "client_id": "CLI-684",
+    "client_name": "Heller LLC",
+    "event_name": "Proactive homogeneous hardware 2026",
+    "event_type": "annual_meeting",
+    "attendee_count": 168,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-01-15",
+      "2026-01-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 3,
+    "budget": 120050,
+    "budget_flexibility": "firm",
+    "location_preference": "Southwest",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "Seattle",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 10
+    },
+    "required_amenities": [
+      "breakout_rooms",
+      "catering",
+      "stage",
+      "virtual_streaming"
+    ],
+    "preferred_amenities": [
+      "av_equipment",
+      "virtual_streaming",
+      "wifi",
+      "breakout_rooms"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "minimum 4 breakout rooms",
+      "stage for presentations",
+      "green room needed",
+      "loading dock access"
+    ],
+    "past_events_with_us": 5,
+    "client_preferences": [
+      "experienced event team",
+      "natural light"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-020",
+    "client_id": "CLI-299",
+    "client_name": "Dare, Satterfield and Marks",
+    "event_name": "Reverse-engineered discrete hub 2026",
+    "event_type": "annual_meeting",
+    "attendee_count": 265,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-05-15",
+      "2026-05-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 4,
+    "budget": 102778,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "Southeast"
+      ],
+      "cities": [
+        "San Diego",
+        "Boston",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 13
+    },
+    "required_amenities": [
+      "wifi",
+      "av_equipment",
+      "breakout_rooms",
+      "parking",
+      "outdoor_space"
+    ],
+    "preferred_amenities": [
+      "av_equipment",
+      "stage",
+      "breakout_rooms",
+      "outdoor_space"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "green room needed",
+      "loading dock access",
+      "stage for presentations"
+    ],
+    "past_events_with_us": 5,
+    "client_preferences": [
+      "flexible spaces",
+      "natural light",
+      "experienced event team"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-021",
+    "client_id": "CLI-499",
+    "client_name": "Dare, Ernser and Nicolas",
+    "event_name": "Seamless static flexibility 2026",
+    "event_type": "training",
+    "attendee_count": 306,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-03-15",
+      "2026-03-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 4,
+    "budget": 136020,
+    "budget_flexibility": "firm",
+    "location_preference": "Southeast",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "San Diego",
+        "San Francisco",
+        "Boston"
+      ],
+      "max_airport_distance_miles": 10
+    },
+    "required_amenities": [
+      "catering",
+      "stage",
+      "breakout_rooms",
+      "av_equipment"
+    ],
+    "preferred_amenities": [
+      "breakout_rooms",
+      "outdoor_space"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "loading dock access",
+      "minimum 4 breakout rooms",
+      "dietary restrictions catering"
+    ],
+    "past_events_with_us": 8,
+    "client_preferences": [
+      "responsive staff",
+      "natural light",
+      "modern facilities",
+      "experienced event team"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-022",
+    "client_id": "CLI-235",
+    "client_name": "Carroll Group",
+    "event_name": "Managed executive synergy 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 304,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-10-15",
+      "2026-10-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 11,
+    "budget": 61733,
+    "budget_flexibility": "firm",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "Seattle",
+        "Chicago",
+        "Boston"
+      ],
+      "max_airport_distance_miles": 22
+    },
+    "required_amenities": [
+      "av_equipment",
+      "breakout_rooms",
+      "virtual_streaming",
+      "catering"
+    ],
+    "preferred_amenities": [
+      "av_equipment",
+      "breakout_rooms"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "dietary restrictions catering",
+      "accessible venue required",
+      "stage for presentations"
+    ],
+    "past_events_with_us": 6,
+    "client_preferences": [
+      "natural light",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-023",
+    "client_id": "CLI-476",
+    "client_name": "Barton Group",
+    "event_name": "Phased empowering architecture 2026",
+    "event_type": "gala",
+    "attendee_count": 310,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-10-15",
+      "2026-10-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 8,
+    "budget": 134758,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Midwest",
+    "location_requirements": {
+      "region": [
+        "West Coast"
+      ],
+      "cities": [
+        "San Francisco",
+        "Seattle",
+        "San Diego"
+      ],
+      "max_airport_distance_miles": 17
+    },
+    "required_amenities": [
+      "catering",
+      "av_equipment",
+      "parking",
+      "stage",
+      "breakout_rooms",
+      "wifi"
+    ],
+    "preferred_amenities": [
+      "breakout_rooms",
+      "stage",
+      "catering"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 3,
+    "client_preferences": [
+      "natural light",
+      "strong AV support",
+      "flexible spaces",
+      "responsive staff"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-024",
+    "client_id": "CLI-378",
+    "client_name": "Goyette - Reinger",
+    "event_name": "Distributed intangible workforce 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 260,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-12-15",
+      "2026-12-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 6,
+    "budget": 82386,
+    "budget_flexibility": "flexible",
+    "location_preference": "Midwest",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "Los Angeles",
+        "San Francisco",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 23
+    },
+    "required_amenities": [
+      "outdoor_space",
+      "breakout_rooms",
+      "av_equipment",
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "preferred_amenities": [
+      "virtual_streaming",
+      "parking"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "minimum 4 breakout rooms",
+      "accessible venue required"
+    ],
+    "past_events_with_us": 8,
+    "client_preferences": [
+      "flexible spaces",
+      "experienced event team"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-025",
+    "client_id": "CLI-613",
+    "client_name": "Effertz, Nader and Sawayn",
+    "event_name": "Monitored content-based matrices 2026",
+    "event_type": "gala",
+    "attendee_count": 140,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-06-15",
+      "2026-06-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 5,
+    "budget": 43173,
+    "budget_flexibility": "firm",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "San Diego",
+        "Chicago",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 30
+    },
+    "required_amenities": [
+      "catering",
+      "virtual_streaming",
+      "stage",
+      "av_equipment"
+    ],
+    "preferred_amenities": [
+      "catering",
+      "outdoor_space",
+      "av_equipment",
+      "breakout_rooms"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "stage for presentations",
+      "minimum 4 breakout rooms",
+      "dietary restrictions catering",
+      "accessible venue required"
+    ],
+    "past_events_with_us": 6,
+    "client_preferences": [
+      "natural light",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-026",
+    "client_id": "CLI-757",
+    "client_name": "Sporer - D'Amore",
+    "event_name": "Quality-focused bifurcated open architecture 2026",
+    "event_type": "corporate_conference",
+    "attendee_count": 414,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-07-15",
+      "2026-07-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 9,
+    "budget": 78655,
+    "budget_flexibility": "flexible",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "Southwest"
+      ],
+      "cities": [
+        "Chicago",
+        "Seattle",
+        "Boston"
+      ],
+      "max_airport_distance_miles": 22
+    },
+    "required_amenities": [
+      "av_equipment",
+      "outdoor_space",
+      "virtual_streaming",
+      "breakout_rooms"
+    ],
+    "preferred_amenities": [
+      "outdoor_space",
+      "breakout_rooms",
+      "stage"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "green room needed",
+      "accessible venue required"
+    ],
+    "past_events_with_us": 1,
+    "client_preferences": [
+      "modern facilities",
+      "experienced event team",
+      "responsive staff",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-027",
+    "client_id": "CLI-576",
+    "client_name": "Thompson, Considine and Schuster",
+    "event_name": "Monitored context-sensitive methodology 2026",
+    "event_type": "training",
+    "attendee_count": 189,
+    "duration_days": 2,
+    "preferred_dates": [
+      "2026-05-15",
+      "2026-05-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 9,
+    "budget": 48756,
+    "budget_flexibility": "flexible",
+    "location_preference": "East Coast",
+    "location_requirements": {
+      "region": [
+        "Southeast"
+      ],
+      "cities": [
+        "San Diego",
+        "Chicago",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 11
+    },
+    "required_amenities": [
+      "av_equipment",
+      "stage",
+      "wifi",
+      "catering"
+    ],
+    "preferred_amenities": [
+      "stage",
+      "wifi",
+      "catering",
+      "parking"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "stage for presentations",
+      "green room needed",
+      "accessible venue required"
+    ],
+    "past_events_with_us": 5,
+    "client_preferences": [
+      "experienced event team",
+      "modern facilities"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-028",
+    "client_id": "CLI-289",
+    "client_name": "Thompson Inc",
+    "event_name": "Triple-buffered mobile analyzer 2026",
+    "event_type": "annual_meeting",
+    "attendee_count": 124,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-07-15",
+      "2026-07-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 4,
+    "budget": 127713,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Southwest",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "Boston",
+        "Seattle",
+        "Los Angeles"
+      ],
+      "max_airport_distance_miles": 15
+    },
+    "required_amenities": [
+      "av_equipment",
+      "virtual_streaming",
+      "breakout_rooms",
+      "parking"
+    ],
+    "preferred_amenities": [
+      "parking",
+      "wifi",
+      "stage"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "green room needed",
+      "accessible venue required"
+    ],
+    "past_events_with_us": 3,
+    "client_preferences": [
+      "experienced event team",
+      "flexible spaces",
+      "natural light",
+      "strong AV support"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-029",
+    "client_id": "CLI-701",
+    "client_name": "Windler - Hickle",
+    "event_name": "Reduced bifurcated focus group 2026",
+    "event_type": "annual_meeting",
+    "attendee_count": 189,
+    "duration_days": 1,
+    "preferred_dates": [
+      "2026-04-15",
+      "2026-04-16"
+    ],
+    "flexible_dates": false,
+    "date_flexibility_days": 7,
+    "budget": 45060,
+    "budget_flexibility": "firm",
+    "location_preference": "Midwest",
+    "location_requirements": {
+      "region": [
+        "West Coast"
+      ],
+      "cities": [
+        "San Francisco",
+        "San Diego",
+        "Chicago"
+      ],
+      "max_airport_distance_miles": 23
+    },
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi",
+      "virtual_streaming",
+      "stage"
+    ],
+    "preferred_amenities": [
+      "stage",
+      "av_equipment"
+    ],
+    "event_style": "in_person",
+    "special_requirements": [
+      "dietary restrictions catering",
+      "stage for presentations"
+    ],
+    "past_events_with_us": 2,
+    "client_preferences": [
+      "natural light",
+      "experienced event team"
+    ]
+  },
+  {
+    "event_id": "EVT-2026-030",
+    "client_id": "CLI-732",
+    "client_name": "Ryan Group",
+    "event_name": "Virtual directional microservice 2026",
+    "event_type": "training",
+    "attendee_count": 164,
+    "duration_days": 3,
+    "preferred_dates": [
+      "2026-12-15",
+      "2026-12-16"
+    ],
+    "flexible_dates": true,
+    "date_flexibility_days": 10,
+    "budget": 118163,
+    "budget_flexibility": "some_flexibility",
+    "location_preference": "Midwest",
+    "location_requirements": {
+      "region": [
+        "East Coast"
+      ],
+      "cities": [
+        "Los Angeles",
+        "San Diego",
+        "San Francisco"
+      ],
+      "max_airport_distance_miles": 17
+    },
+    "required_amenities": [
+      "wifi",
+      "av_equipment",
+      "outdoor_space",
+      "catering",
+      "breakout_rooms",
+      "parking"
+    ],
+    "preferred_amenities": [
+      "virtual_streaming",
+      "parking"
+    ],
+    "event_style": "hybrid_in_person_virtual",
+    "special_requirements": [
+      "stage for presentations",
+      "minimum 4 breakout rooms"
+    ],
+    "past_events_with_us": 3,
+    "client_preferences": [
+      "natural light",
+      "experienced event team",
+      "strong AV support",
+      "modern facilities"
+    ]
+  }
+]

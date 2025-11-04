@@ -1,0 +1,2442 @@
+[
+  {
+    "client_id": "CLI-286",
+    "company_name": "Parker, Ernser and Hartmann",
+    "industry": "manufacturing",
+    "company_size": "medium",
+    "avg_event_size": 280,
+    "events_per_year": 7,
+    "total_events_booked": 7,
+    "avg_budget": 67434,
+    "preferred_regions": [
+      "Southwest",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 3.5,
+    "loyalty_tier": "gold",
+    "special_notes": "Public-key cloud-native initiative"
+  },
+  {
+    "client_id": "CLI-533",
+    "company_name": "Crona LLC",
+    "industry": "manufacturing",
+    "company_size": "medium",
+    "avg_event_size": 334,
+    "events_per_year": 2,
+    "total_events_booked": 9,
+    "avg_budget": 114771,
+    "preferred_regions": [
+      "Southwest",
+      "Midwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "catering",
+      "wifi",
+      "parking"
+    ],
+    "event_types": [
+      "gala",
+      "training",
+      "product_launch",
+      "team_building"
+    ],
+    "satisfaction_score": 3.5,
+    "loyalty_tier": "gold",
+    "special_notes": "Cross-platform human-resource project"
+  },
+  {
+    "client_id": "CLI-578",
+    "company_name": "Gibson Inc",
+    "industry": "real_estate",
+    "company_size": "large",
+    "avg_event_size": 383,
+    "events_per_year": 10,
+    "total_events_booked": 32,
+    "avg_budget": 117724,
+    "preferred_regions": [
+      "Midwest",
+      "Southwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "resort"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "gold",
+    "special_notes": "Multi-tiered local approach"
+  },
+  {
+    "client_id": "CLI-299",
+    "company_name": "Hamill LLC",
+    "industry": "manufacturing",
+    "company_size": "large",
+    "avg_event_size": 381,
+    "events_per_year": 3,
+    "total_events_booked": 9,
+    "avg_budget": 104381,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "parking",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 3.5,
+    "loyalty_tier": "silver",
+    "special_notes": "Phased zero trust leverage"
+  },
+  {
+    "client_id": "CLI-557",
+    "company_name": "Leffler - Balistreri",
+    "industry": "healthcare",
+    "company_size": "small",
+    "avg_event_size": 336,
+    "events_per_year": 9,
+    "total_events_booked": 35,
+    "avg_budget": 132673,
+    "preferred_regions": [
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "product_launch",
+      "training",
+      "team_building",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 3.6,
+    "loyalty_tier": "gold",
+    "special_notes": "Exclusive needs-based interface"
+  },
+  {
+    "client_id": "CLI-379",
+    "company_name": "Walsh, Predovic and Bogan",
+    "industry": "technology",
+    "company_size": "medium",
+    "avg_event_size": 363,
+    "events_per_year": 3,
+    "total_events_booked": 14,
+    "avg_budget": 51621,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "training",
+      "team_building",
+      "gala"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "silver",
+    "special_notes": "Secured clear-thinking flexibility"
+  },
+  {
+    "client_id": "CLI-487",
+    "company_name": "Smitham LLC",
+    "industry": "healthcare",
+    "company_size": "medium",
+    "avg_event_size": 487,
+    "events_per_year": 11,
+    "total_events_booked": 44,
+    "avg_budget": 136010,
+    "preferred_regions": [
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "conference_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "team_building",
+      "product_launch",
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 4.2,
+    "loyalty_tier": "gold",
+    "special_notes": "Synchronised interactive structure"
+  },
+  {
+    "client_id": "CLI-837",
+    "company_name": "Bauch Group",
+    "industry": "financial_services",
+    "company_size": "medium",
+    "avg_event_size": 393,
+    "events_per_year": 4,
+    "total_events_booked": 15,
+    "avg_budget": 33067,
+    "preferred_regions": [
+      "East Coast",
+      "West Coast",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala"
+    ],
+    "satisfaction_score": 4.3,
+    "loyalty_tier": "platinum",
+    "special_notes": "Phased well-modulated matrices"
+  },
+  {
+    "client_id": "CLI-274",
+    "company_name": "Krajcik Inc",
+    "industry": "healthcare",
+    "company_size": "enterprise",
+    "avg_event_size": 232,
+    "events_per_year": 9,
+    "total_events_booked": 31,
+    "avg_budget": 59844,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "team_building",
+      "corporate_conference",
+      "training",
+      "gala"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "gold",
+    "special_notes": "Front-line leading edge orchestration"
+  },
+  {
+    "client_id": "CLI-637",
+    "company_name": "Brekke Group",
+    "industry": "education",
+    "company_size": "medium",
+    "avg_event_size": 357,
+    "events_per_year": 12,
+    "total_events_booked": 28,
+    "avg_budget": 94147,
+    "preferred_regions": [
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "parking",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "gold",
+    "special_notes": "Centralized value-added migration"
+  },
+  {
+    "client_id": "CLI-608",
+    "company_name": "Schneider - Bogisich",
+    "industry": "technology",
+    "company_size": "small",
+    "avg_event_size": 141,
+    "events_per_year": 5,
+    "total_events_booked": 13,
+    "avg_budget": 76690,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "convention_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 3.7,
+    "loyalty_tier": "platinum",
+    "special_notes": "Future-proofed hybrid functionalities"
+  },
+  {
+    "client_id": "CLI-483",
+    "company_name": "Bailey, Runolfsson and Prohaska",
+    "industry": "real_estate",
+    "company_size": "large",
+    "avg_event_size": 427,
+    "events_per_year": 2,
+    "total_events_booked": 2,
+    "avg_budget": 97908,
+    "preferred_regions": [
+      "West Coast",
+      "Midwest",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "convention_center",
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "gala",
+      "team_building"
+    ],
+    "satisfaction_score": 4.5,
+    "loyalty_tier": "silver",
+    "special_notes": "Sustainable discrete array"
+  },
+  {
+    "client_id": "CLI-141",
+    "company_name": "Rice, Cummerata and Kihn",
+    "industry": "real_estate",
+    "company_size": "large",
+    "avg_event_size": 297,
+    "events_per_year": 10,
+    "total_events_booked": 45,
+    "avg_budget": 115766,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "gala",
+      "corporate_conference",
+      "training",
+      "team_building"
+    ],
+    "satisfaction_score": 4.4,
+    "loyalty_tier": "platinum",
+    "special_notes": "Diverse resilient access"
+  },
+  {
+    "client_id": "CLI-439",
+    "company_name": "Gutmann, Krajcik and Wuckert",
+    "industry": "financial_services",
+    "company_size": "medium",
+    "avg_event_size": 475,
+    "events_per_year": 8,
+    "total_events_booked": 36,
+    "avg_budget": 66529,
+    "preferred_regions": [
+      "Midwest",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "gala",
+      "product_launch"
+    ],
+    "satisfaction_score": 3.6,
+    "loyalty_tier": "platinum",
+    "special_notes": "Organized real-time generative AI"
+  },
+  {
+    "client_id": "CLI-473",
+    "company_name": "Nolan Group",
+    "industry": "consulting",
+    "company_size": "small",
+    "avg_event_size": 270,
+    "events_per_year": 8,
+    "total_events_booked": 16,
+    "avg_budget": 141082,
+    "preferred_regions": [
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "conference_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training",
+      "gala",
+      "product_launch"
+    ],
+    "satisfaction_score": 3.6,
+    "loyalty_tier": "platinum",
+    "special_notes": "Adaptive bifurcated support"
+  },
+  {
+    "client_id": "CLI-483",
+    "company_name": "Heidenreich LLC",
+    "industry": "healthcare",
+    "company_size": "large",
+    "avg_event_size": 488,
+    "events_per_year": 2,
+    "total_events_booked": 5,
+    "avg_budget": 54405,
+    "preferred_regions": [
+      "West Coast",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "convention_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "gala",
+      "corporate_conference",
+      "training",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.2,
+    "loyalty_tier": "gold",
+    "special_notes": "AI-driven fault-tolerant complexity"
+  },
+  {
+    "client_id": "CLI-890",
+    "company_name": "Gleason - Monahan",
+    "industry": "manufacturing",
+    "company_size": "medium",
+    "avg_event_size": 489,
+    "events_per_year": 10,
+    "total_events_booked": 35,
+    "avg_budget": 94444,
+    "preferred_regions": [
+      "West Coast",
+      "East Coast",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "convention_center",
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "product_launch",
+      "team_building",
+      "training",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 3.6,
+    "loyalty_tier": "silver",
+    "special_notes": "Streamlined content-based structure"
+  },
+  {
+    "client_id": "CLI-336",
+    "company_name": "Watsica - Schneider",
+    "industry": "non_profit",
+    "company_size": "medium",
+    "avg_event_size": 242,
+    "events_per_year": 1,
+    "total_events_booked": 3,
+    "avg_budget": 82188,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "gold",
+    "special_notes": "Stand-alone dynamic interface"
+  },
+  {
+    "client_id": "CLI-170",
+    "company_name": "Bogan, Price and Larkin",
+    "industry": "consulting",
+    "company_size": "large",
+    "avg_event_size": 289,
+    "events_per_year": 10,
+    "total_events_booked": 14,
+    "avg_budget": 144754,
+    "preferred_regions": [
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 3.6,
+    "loyalty_tier": "bronze",
+    "special_notes": "Exclusive holistic support"
+  },
+  {
+    "client_id": "CLI-451",
+    "company_name": "Parisian Inc",
+    "industry": "healthcare",
+    "company_size": "large",
+    "avg_event_size": 382,
+    "events_per_year": 2,
+    "total_events_booked": 7,
+    "avg_budget": 113074,
+    "preferred_regions": [
+      "East Coast",
+      "Southwest",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center"
+    ],
+    "required_amenities": [
+      "catering",
+      "wifi",
+      "parking"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "silver",
+    "special_notes": "Fully-configurable demand-driven project"
+  },
+  {
+    "client_id": "CLI-145",
+    "company_name": "Gulgowski - Herzog",
+    "industry": "real_estate",
+    "company_size": "medium",
+    "avg_event_size": 71,
+    "events_per_year": 1,
+    "total_events_booked": 5,
+    "avg_budget": 77076,
+    "preferred_regions": [
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "catering",
+      "parking",
+      "wifi"
+    ],
+    "event_types": [
+      "training",
+      "corporate_conference",
+      "team_building"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "platinum",
+    "special_notes": "Focused holistic circuit"
+  },
+  {
+    "client_id": "CLI-225",
+    "company_name": "Adams - O'Reilly",
+    "industry": "manufacturing",
+    "company_size": "large",
+    "avg_event_size": 262,
+    "events_per_year": 10,
+    "total_events_booked": 42,
+    "avg_budget": 134132,
+    "preferred_regions": [
+      "Southwest",
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "product_launch",
+      "training",
+      "team_building",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "gold",
+    "special_notes": "Smart system-worthy capacity"
+  },
+  {
+    "client_id": "CLI-642",
+    "company_name": "Dach Inc",
+    "industry": "manufacturing",
+    "company_size": "medium",
+    "avg_event_size": 196,
+    "events_per_year": 3,
+    "total_events_booked": 3,
+    "avg_budget": 80476,
+    "preferred_regions": [
+      "East Coast",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "wifi",
+      "av_equipment",
+      "parking"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "team_building"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "platinum",
+    "special_notes": "Expanded systemic interface"
+  },
+  {
+    "client_id": "CLI-566",
+    "company_name": "Altenwerth - Durgan",
+    "industry": "non_profit",
+    "company_size": "medium",
+    "avg_event_size": 289,
+    "events_per_year": 9,
+    "total_events_booked": 41,
+    "avg_budget": 83703,
+    "preferred_regions": [
+      "West Coast",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "training",
+      "product_launch",
+      "team_building",
+      "gala"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "gold",
+    "special_notes": "Customer-focused optimizing capability"
+  },
+  {
+    "client_id": "CLI-669",
+    "company_name": "Gerlach Inc",
+    "industry": "media",
+    "company_size": "small",
+    "avg_event_size": 335,
+    "events_per_year": 9,
+    "total_events_booked": 15,
+    "avg_budget": 32414,
+    "preferred_regions": [
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "training",
+      "product_launch",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 3.9,
+    "loyalty_tier": "bronze",
+    "special_notes": "Sharable contextually-based projection"
+  },
+  {
+    "client_id": "CLI-764",
+    "company_name": "Dicki Inc",
+    "industry": "financial_services",
+    "company_size": "small",
+    "avg_event_size": 286,
+    "events_per_year": 4,
+    "total_events_booked": 20,
+    "avg_budget": 81295,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "conference_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "training",
+      "team_building",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.1,
+    "loyalty_tier": "bronze",
+    "special_notes": "Proactive bottom-line adapter"
+  },
+  {
+    "client_id": "CLI-778",
+    "company_name": "Kuhlman - Hodkiewicz",
+    "industry": "consulting",
+    "company_size": "medium",
+    "avg_event_size": 196,
+    "events_per_year": 2,
+    "total_events_booked": 8,
+    "avg_budget": 37166,
+    "preferred_regions": [
+      "East Coast",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "bronze",
+    "special_notes": "Versatile local pricing structure"
+  },
+  {
+    "client_id": "CLI-829",
+    "company_name": "Barrows LLC",
+    "industry": "technology",
+    "company_size": "large",
+    "avg_event_size": 424,
+    "events_per_year": 6,
+    "total_events_booked": 12,
+    "avg_budget": 120033,
+    "preferred_regions": [
+      "Southwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "parking",
+      "catering"
+    ],
+    "event_types": [
+      "gala",
+      "corporate_conference",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.4,
+    "loyalty_tier": "platinum",
+    "special_notes": "Stand-alone value-added strategy"
+  },
+  {
+    "client_id": "CLI-218",
+    "company_name": "Powlowski, Mertz and D'Amore",
+    "industry": "financial_services",
+    "company_size": "medium",
+    "avg_event_size": 465,
+    "events_per_year": 9,
+    "total_events_booked": 40,
+    "avg_budget": 137513,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "silver",
+    "special_notes": "Upgradable heuristic solution"
+  },
+  {
+    "client_id": "CLI-537",
+    "company_name": "Torphy, Schmidt and Towne",
+    "industry": "manufacturing",
+    "company_size": "enterprise",
+    "avg_event_size": 132,
+    "events_per_year": 1,
+    "total_events_booked": 4,
+    "avg_budget": 60197,
+    "preferred_regions": [
+      "West Coast",
+      "East Coast",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "silver",
+    "special_notes": "Ergonomic local approach"
+  },
+  {
+    "client_id": "CLI-594",
+    "company_name": "Romaguera, Ratke and McDermott",
+    "industry": "healthcare",
+    "company_size": "small",
+    "avg_event_size": 438,
+    "events_per_year": 6,
+    "total_events_booked": 15,
+    "avg_budget": 90881,
+    "preferred_regions": [
+      "East Coast",
+      "West Coast",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "convention_center"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "product_launch",
+      "training"
+    ],
+    "satisfaction_score": 4.4,
+    "loyalty_tier": "bronze",
+    "special_notes": "Intuitive motivating policy"
+  },
+  {
+    "client_id": "CLI-691",
+    "company_name": "Brakus LLC",
+    "industry": "non_profit",
+    "company_size": "enterprise",
+    "avg_event_size": 328,
+    "events_per_year": 1,
+    "total_events_booked": 3,
+    "avg_budget": 31772,
+    "preferred_regions": [
+      "Southwest",
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "hotel"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "team_building",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.9,
+    "loyalty_tier": "silver",
+    "special_notes": "Customizable context-sensitive support"
+  },
+  {
+    "client_id": "CLI-892",
+    "company_name": "Daniel Group",
+    "industry": "education",
+    "company_size": "medium",
+    "avg_event_size": 378,
+    "events_per_year": 8,
+    "total_events_booked": 37,
+    "avg_budget": 96232,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "hotel"
+    ],
+    "required_amenities": [
+      "parking",
+      "av_equipment",
+      "catering"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "product_launch",
+      "training"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "bronze",
+    "special_notes": "Operative composite product"
+  },
+  {
+    "client_id": "CLI-621",
+    "company_name": "Volkman, Powlowski and Lowe",
+    "industry": "real_estate",
+    "company_size": "large",
+    "avg_event_size": 401,
+    "events_per_year": 4,
+    "total_events_booked": 6,
+    "avg_budget": 139448,
+    "preferred_regions": [
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "training",
+      "product_launch",
+      "corporate_conference",
+      "team_building"
+    ],
+    "satisfaction_score": 3.5,
+    "loyalty_tier": "silver",
+    "special_notes": "Multi-tiered bifurcated pricing structure"
+  },
+  {
+    "client_id": "CLI-343",
+    "company_name": "Cronin - Maggio",
+    "industry": "manufacturing",
+    "company_size": "enterprise",
+    "avg_event_size": 450,
+    "events_per_year": 8,
+    "total_events_booked": 28,
+    "avg_budget": 130438,
+    "preferred_regions": [
+      "Southwest",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "bronze",
+    "special_notes": "Managed neutral portal"
+  },
+  {
+    "client_id": "CLI-852",
+    "company_name": "Mann - Witting",
+    "industry": "manufacturing",
+    "company_size": "small",
+    "avg_event_size": 182,
+    "events_per_year": 3,
+    "total_events_booked": 12,
+    "avg_budget": 119285,
+    "preferred_regions": [
+      "Southwest",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "training",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.5,
+    "loyalty_tier": "platinum",
+    "special_notes": "Fundamental clear-thinking process improvement"
+  },
+  {
+    "client_id": "CLI-705",
+    "company_name": "Ebert - Bailey",
+    "industry": "healthcare",
+    "company_size": "medium",
+    "avg_event_size": 415,
+    "events_per_year": 7,
+    "total_events_booked": 7,
+    "avg_budget": 78316,
+    "preferred_regions": [
+      "West Coast",
+      "Southwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "convention_center",
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training",
+      "team_building",
+      "gala"
+    ],
+    "satisfaction_score": 4.1,
+    "loyalty_tier": "gold",
+    "special_notes": "Devolved heuristic hierarchy"
+  },
+  {
+    "client_id": "CLI-789",
+    "company_name": "Hand, Terry and Christiansen",
+    "industry": "media",
+    "company_size": "small",
+    "avg_event_size": 163,
+    "events_per_year": 7,
+    "total_events_booked": 14,
+    "avg_budget": 114590,
+    "preferred_regions": [
+      "West Coast",
+      "Southwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "training",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 3.9,
+    "loyalty_tier": "bronze",
+    "special_notes": "Fully-configurable intermediate instruction set"
+  },
+  {
+    "client_id": "CLI-143",
+    "company_name": "Kris and Sons",
+    "industry": "non_profit",
+    "company_size": "medium",
+    "avg_event_size": 320,
+    "events_per_year": 9,
+    "total_events_booked": 28,
+    "avg_budget": 110678,
+    "preferred_regions": [
+      "Southwest",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "conference_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "product_launch",
+      "corporate_conference",
+      "team_building"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "silver",
+    "special_notes": "Fundamental local application"
+  },
+  {
+    "client_id": "CLI-435",
+    "company_name": "Hand, Schiller and Mraz",
+    "industry": "manufacturing",
+    "company_size": "large",
+    "avg_event_size": 59,
+    "events_per_year": 7,
+    "total_events_booked": 9,
+    "avg_budget": 113864,
+    "preferred_regions": [
+      "West Coast",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "catering",
+      "av_equipment",
+      "parking"
+    ],
+    "event_types": [
+      "gala",
+      "training",
+      "corporate_conference",
+      "product_launch"
+    ],
+    "satisfaction_score": 3.8,
+    "loyalty_tier": "platinum",
+    "special_notes": "Universal dedicated attitude"
+  },
+  {
+    "client_id": "CLI-153",
+    "company_name": "Rodriguez, Schmeler and Schimmel",
+    "industry": "real_estate",
+    "company_size": "medium",
+    "avg_event_size": 428,
+    "events_per_year": 3,
+    "total_events_booked": 6,
+    "avg_budget": 104006,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training",
+      "gala",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "gold",
+    "special_notes": "Versatile context-sensitive collaboration"
+  },
+  {
+    "client_id": "CLI-466",
+    "company_name": "Luettgen - Krajcik",
+    "industry": "non_profit",
+    "company_size": "large",
+    "avg_event_size": 454,
+    "events_per_year": 1,
+    "total_events_booked": 2,
+    "avg_budget": 72409,
+    "preferred_regions": [
+      "West Coast",
+      "East Coast",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "gala"
+    ],
+    "satisfaction_score": 4.9,
+    "loyalty_tier": "gold",
+    "special_notes": "Robust tangible circuit"
+  },
+  {
+    "client_id": "CLI-873",
+    "company_name": "Jenkins, Rohan and Marquardt",
+    "industry": "healthcare",
+    "company_size": "large",
+    "avg_event_size": 432,
+    "events_per_year": 8,
+    "total_events_booked": 40,
+    "avg_budget": 55324,
+    "preferred_regions": [
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "av_equipment",
+      "parking"
+    ],
+    "event_types": [
+      "team_building",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "platinum",
+    "special_notes": "Polarised value-added matrices"
+  },
+  {
+    "client_id": "CLI-968",
+    "company_name": "Howell, Okuneva and Muller",
+    "industry": "financial_services",
+    "company_size": "large",
+    "avg_event_size": 111,
+    "events_per_year": 8,
+    "total_events_booked": 39,
+    "avg_budget": 77387,
+    "preferred_regions": [
+      "Southwest",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "gala",
+      "team_building"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "silver",
+    "special_notes": "Ergonomic zero tolerance concept"
+  },
+  {
+    "client_id": "CLI-722",
+    "company_name": "Shields - Kautzer",
+    "industry": "consulting",
+    "company_size": "enterprise",
+    "avg_event_size": 207,
+    "events_per_year": 11,
+    "total_events_booked": 33,
+    "avg_budget": 45987,
+    "preferred_regions": [
+      "East Coast",
+      "West Coast",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 3.8,
+    "loyalty_tier": "bronze",
+    "special_notes": "Extended radical methodology"
+  },
+  {
+    "client_id": "CLI-907",
+    "company_name": "Crooks - Dickens",
+    "industry": "technology",
+    "company_size": "large",
+    "avg_event_size": 348,
+    "events_per_year": 3,
+    "total_events_booked": 9,
+    "avg_budget": 142853,
+    "preferred_regions": [
+      "Southwest",
+      "West Coast",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "parking",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training",
+      "gala"
+    ],
+    "satisfaction_score": 4.9,
+    "loyalty_tier": "bronze",
+    "special_notes": "Realigned tertiary contingency"
+  },
+  {
+    "client_id": "CLI-994",
+    "company_name": "Bartoletti Group",
+    "industry": "media",
+    "company_size": "large",
+    "avg_event_size": 155,
+    "events_per_year": 7,
+    "total_events_booked": 8,
+    "avg_budget": 109484,
+    "preferred_regions": [
+      "East Coast",
+      "West Coast",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "hotel"
+    ],
+    "required_amenities": [
+      "catering",
+      "av_equipment",
+      "wifi"
+    ],
+    "event_types": [
+      "gala",
+      "product_launch",
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4.9,
+    "loyalty_tier": "gold",
+    "special_notes": "Extended reciprocal core"
+  },
+  {
+    "client_id": "CLI-821",
+    "company_name": "Skiles Group",
+    "industry": "manufacturing",
+    "company_size": "enterprise",
+    "avg_event_size": 151,
+    "events_per_year": 10,
+    "total_events_booked": 43,
+    "avg_budget": 41751,
+    "preferred_regions": [
+      "West Coast",
+      "Southwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "wifi",
+      "parking",
+      "catering"
+    ],
+    "event_types": [
+      "training",
+      "corporate_conference",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.1,
+    "loyalty_tier": "silver",
+    "special_notes": "Phased motivating array"
+  },
+  {
+    "client_id": "CLI-159",
+    "company_name": "Kassulke - Nolan",
+    "industry": "media",
+    "company_size": "large",
+    "avg_event_size": 425,
+    "events_per_year": 3,
+    "total_events_booked": 12,
+    "avg_budget": 61446,
+    "preferred_regions": [
+      "Midwest",
+      "Southwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala",
+      "training",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.7,
+    "loyalty_tier": "platinum",
+    "special_notes": "Customizable dynamic monitoring"
+  },
+  {
+    "client_id": "CLI-678",
+    "company_name": "Hills Group",
+    "industry": "consulting",
+    "company_size": "enterprise",
+    "avg_event_size": 152,
+    "events_per_year": 8,
+    "total_events_booked": 12,
+    "avg_budget": 55726,
+    "preferred_regions": [
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "team_building",
+      "product_launch",
+      "gala"
+    ],
+    "satisfaction_score": 3.8,
+    "loyalty_tier": "platinum",
+    "special_notes": "Expanded asynchronous orchestration"
+  },
+  {
+    "client_id": "CLI-483",
+    "company_name": "Altenwerth - Beatty",
+    "industry": "education",
+    "company_size": "medium",
+    "avg_event_size": 351,
+    "events_per_year": 5,
+    "total_events_booked": 8,
+    "avg_budget": 56551,
+    "preferred_regions": [
+      "East Coast",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "product_launch",
+      "training"
+    ],
+    "satisfaction_score": 4.1,
+    "loyalty_tier": "platinum",
+    "special_notes": "Sustainable zero trust website"
+  },
+  {
+    "client_id": "CLI-630",
+    "company_name": "Pagac, Schneider and Stiedemann",
+    "industry": "healthcare",
+    "company_size": "large",
+    "avg_event_size": 209,
+    "events_per_year": 10,
+    "total_events_booked": 11,
+    "avg_budget": 71539,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "conference_center"
+    ],
+    "required_amenities": [
+      "catering",
+      "parking",
+      "wifi"
+    ],
+    "event_types": [
+      "team_building",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "platinum",
+    "special_notes": "Robust actuating data-warehouse"
+  },
+  {
+    "client_id": "CLI-514",
+    "company_name": "Schmitt Group",
+    "industry": "financial_services",
+    "company_size": "large",
+    "avg_event_size": 144,
+    "events_per_year": 9,
+    "total_events_booked": 43,
+    "avg_budget": 147329,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "parking",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 3.9,
+    "loyalty_tier": "bronze",
+    "special_notes": "Adaptive composite matrix"
+  },
+  {
+    "client_id": "CLI-115",
+    "company_name": "Nienow - Ferry",
+    "industry": "consulting",
+    "company_size": "small",
+    "avg_event_size": 465,
+    "events_per_year": 2,
+    "total_events_booked": 6,
+    "avg_budget": 81506,
+    "preferred_regions": [
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "parking",
+      "catering"
+    ],
+    "event_types": [
+      "team_building",
+      "product_launch",
+      "gala"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "silver",
+    "special_notes": "Customer-focused bottom-line throughput"
+  },
+  {
+    "client_id": "CLI-294",
+    "company_name": "Berge - Kunze",
+    "industry": "manufacturing",
+    "company_size": "enterprise",
+    "avg_event_size": 311,
+    "events_per_year": 7,
+    "total_events_booked": 27,
+    "avg_budget": 58423,
+    "preferred_regions": [
+      "Southwest",
+      "East Coast",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "training",
+      "team_building"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "silver",
+    "special_notes": "Multi-tiered full-range analyzer"
+  },
+  {
+    "client_id": "CLI-623",
+    "company_name": "Walker, Schneider and Ondricka",
+    "industry": "non_profit",
+    "company_size": "large",
+    "avg_event_size": 175,
+    "events_per_year": 1,
+    "total_events_booked": 3,
+    "avg_budget": 124566,
+    "preferred_regions": [
+      "Midwest",
+      "West Coast",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "team_building",
+      "training",
+      "gala",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 3.9,
+    "loyalty_tier": "silver",
+    "special_notes": "Versatile intermediate adapter"
+  },
+  {
+    "client_id": "CLI-761",
+    "company_name": "Runolfsdottir Inc",
+    "industry": "real_estate",
+    "company_size": "medium",
+    "avg_event_size": 471,
+    "events_per_year": 7,
+    "total_events_booked": 27,
+    "avg_budget": 148630,
+    "preferred_regions": [
+      "Midwest",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "convention_center"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "gala",
+      "training",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "platinum",
+    "special_notes": "Centralized coherent frame"
+  },
+  {
+    "client_id": "CLI-112",
+    "company_name": "Renner, Senger and Gorczany",
+    "industry": "education",
+    "company_size": "enterprise",
+    "avg_event_size": 480,
+    "events_per_year": 3,
+    "total_events_booked": 6,
+    "avg_budget": 124365,
+    "preferred_regions": [
+      "West Coast",
+      "East Coast",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "team_building",
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 3.8,
+    "loyalty_tier": "silver",
+    "special_notes": "Organized contextually-based encoding"
+  },
+  {
+    "client_id": "CLI-105",
+    "company_name": "Mann, Auer and Heidenreich",
+    "industry": "financial_services",
+    "company_size": "medium",
+    "avg_event_size": 102,
+    "events_per_year": 1,
+    "total_events_booked": 3,
+    "avg_budget": 76701,
+    "preferred_regions": [
+      "Midwest",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4.3,
+    "loyalty_tier": "platinum",
+    "special_notes": "Front-line methodical frame"
+  },
+  {
+    "client_id": "CLI-931",
+    "company_name": "Blick - Crona",
+    "industry": "technology",
+    "company_size": "medium",
+    "avg_event_size": 245,
+    "events_per_year": 3,
+    "total_events_booked": 13,
+    "avg_budget": 48479,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "parking",
+      "wifi"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "platinum",
+    "special_notes": "Versatile fault-tolerant collaboration"
+  },
+  {
+    "client_id": "CLI-754",
+    "company_name": "Medhurst - Morissette",
+    "industry": "manufacturing",
+    "company_size": "enterprise",
+    "avg_event_size": 82,
+    "events_per_year": 10,
+    "total_events_booked": 20,
+    "avg_budget": 115982,
+    "preferred_regions": [
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "catering",
+      "wifi",
+      "parking"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "team_building",
+      "training"
+    ],
+    "satisfaction_score": 3.6,
+    "loyalty_tier": "gold",
+    "special_notes": "Optional zero defect structure"
+  },
+  {
+    "client_id": "CLI-380",
+    "company_name": "Waters - Stark",
+    "industry": "real_estate",
+    "company_size": "enterprise",
+    "avg_event_size": 261,
+    "events_per_year": 1,
+    "total_events_booked": 1,
+    "avg_budget": 57424,
+    "preferred_regions": [
+      "Southwest",
+      "Midwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center"
+    ],
+    "required_amenities": [
+      "parking",
+      "av_equipment",
+      "wifi"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "gala",
+      "team_building",
+      "training"
+    ],
+    "satisfaction_score": 4.8,
+    "loyalty_tier": "bronze",
+    "special_notes": "Adaptive motivating adapter"
+  },
+  {
+    "client_id": "CLI-361",
+    "company_name": "Kovacek Inc",
+    "industry": "consulting",
+    "company_size": "small",
+    "avg_event_size": 406,
+    "events_per_year": 3,
+    "total_events_booked": 7,
+    "avg_budget": 45052,
+    "preferred_regions": [
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "convention_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "av_equipment"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "product_launch"
+    ],
+    "satisfaction_score": 4.2,
+    "loyalty_tier": "silver",
+    "special_notes": "Grass-roots contextually-based approach"
+  },
+  {
+    "client_id": "CLI-860",
+    "company_name": "Harber - Windler",
+    "industry": "non_profit",
+    "company_size": "small",
+    "avg_event_size": 491,
+    "events_per_year": 4,
+    "total_events_booked": 18,
+    "avg_budget": 39407,
+    "preferred_regions": [
+      "East Coast",
+      "Midwest",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "conference_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "team_building",
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4.2,
+    "loyalty_tier": "bronze",
+    "special_notes": "Stand-alone analyzing contingency"
+  },
+  {
+    "client_id": "CLI-107",
+    "company_name": "Schmeler - Gusikowski",
+    "industry": "financial_services",
+    "company_size": "enterprise",
+    "avg_event_size": 276,
+    "events_per_year": 11,
+    "total_events_booked": 12,
+    "avg_budget": 43589,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "conference_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "training",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "bronze",
+    "special_notes": "Reduced zero administration conglomeration"
+  },
+  {
+    "client_id": "CLI-865",
+    "company_name": "Koss - White",
+    "industry": "media",
+    "company_size": "medium",
+    "avg_event_size": 76,
+    "events_per_year": 10,
+    "total_events_booked": 18,
+    "avg_budget": 139944,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "catering",
+      "wifi",
+      "av_equipment"
+    ],
+    "event_types": [
+      "team_building",
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4.9,
+    "loyalty_tier": "silver",
+    "special_notes": "Upgradable mobile contingency"
+  },
+  {
+    "client_id": "CLI-344",
+    "company_name": "Homenick Inc",
+    "industry": "healthcare",
+    "company_size": "enterprise",
+    "avg_event_size": 224,
+    "events_per_year": 6,
+    "total_events_booked": 22,
+    "avg_budget": 135258,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "convention_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "gala",
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "silver",
+    "special_notes": "Reverse-engineered eco-centric microservice"
+  },
+  {
+    "client_id": "CLI-553",
+    "company_name": "Brekke - Jenkins",
+    "industry": "manufacturing",
+    "company_size": "small",
+    "avg_event_size": 94,
+    "events_per_year": 6,
+    "total_events_booked": 8,
+    "avg_budget": 115409,
+    "preferred_regions": [
+      "Midwest",
+      "West Coast",
+      "Southwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "parking",
+      "av_equipment",
+      "catering"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "gala",
+      "product_launch",
+      "training"
+    ],
+    "satisfaction_score": 3.9,
+    "loyalty_tier": "gold",
+    "special_notes": "Realigned cohesive open architecture"
+  },
+  {
+    "client_id": "CLI-488",
+    "company_name": "Bosco, O'Kon and Roob",
+    "industry": "healthcare",
+    "company_size": "small",
+    "avg_event_size": 167,
+    "events_per_year": 8,
+    "total_events_booked": 17,
+    "avg_budget": 127811,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort",
+      "hotel"
+    ],
+    "required_amenities": [
+      "catering",
+      "parking",
+      "av_equipment"
+    ],
+    "event_types": [
+      "training",
+      "gala",
+      "corporate_conference",
+      "team_building"
+    ],
+    "satisfaction_score": 4.1,
+    "loyalty_tier": "platinum",
+    "special_notes": "Advanced global adapter"
+  },
+  {
+    "client_id": "CLI-429",
+    "company_name": "Buckridge, Kunze and Pacocha",
+    "industry": "media",
+    "company_size": "large",
+    "avg_event_size": 497,
+    "events_per_year": 2,
+    "total_events_booked": 6,
+    "avg_budget": 134088,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "product_launch",
+      "training"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "bronze",
+    "special_notes": "Organic asymmetric adapter"
+  },
+  {
+    "client_id": "CLI-962",
+    "company_name": "Mitchell Group",
+    "industry": "manufacturing",
+    "company_size": "small",
+    "avg_event_size": 240,
+    "events_per_year": 3,
+    "total_events_booked": 10,
+    "avg_budget": 107887,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "convention_center"
+    ],
+    "required_amenities": [
+      "av_equipment",
+      "catering",
+      "wifi"
+    ],
+    "event_types": [
+      "training",
+      "corporate_conference",
+      "team_building"
+    ],
+    "satisfaction_score": 4.4,
+    "loyalty_tier": "silver",
+    "special_notes": "Intuitive eco-centric initiative"
+  },
+  {
+    "client_id": "CLI-206",
+    "company_name": "Abshire - Schoen",
+    "industry": "non_profit",
+    "company_size": "medium",
+    "avg_event_size": 426,
+    "events_per_year": 5,
+    "total_events_booked": 16,
+    "avg_budget": 56091,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "parking"
+    ],
+    "event_types": [
+      "team_building",
+      "product_launch",
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 4.4,
+    "loyalty_tier": "platinum",
+    "special_notes": "Devolved motivating open architecture"
+  },
+  {
+    "client_id": "CLI-915",
+    "company_name": "Schaden - Bogisich",
+    "industry": "consulting",
+    "company_size": "enterprise",
+    "avg_event_size": 411,
+    "events_per_year": 4,
+    "total_events_booked": 8,
+    "avg_budget": 149354,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "training",
+      "product_launch",
+      "team_building",
+      "gala"
+    ],
+    "satisfaction_score": 4.6,
+    "loyalty_tier": "platinum",
+    "special_notes": "Total neutral architecture"
+  },
+  {
+    "client_id": "CLI-708",
+    "company_name": "Swift Group",
+    "industry": "consulting",
+    "company_size": "large",
+    "avg_event_size": 353,
+    "events_per_year": 6,
+    "total_events_booked": 8,
+    "avg_budget": 121725,
+    "preferred_regions": [
+      "Southwest",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training"
+    ],
+    "satisfaction_score": 3.6,
+    "loyalty_tier": "platinum",
+    "special_notes": "Networked holistic model"
+  },
+  {
+    "client_id": "CLI-402",
+    "company_name": "Medhurst, Renner and Hyatt",
+    "industry": "technology",
+    "company_size": "small",
+    "avg_event_size": 387,
+    "events_per_year": 7,
+    "total_events_booked": 15,
+    "avg_budget": 131166,
+    "preferred_regions": [
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "hotel",
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "corporate_conference",
+      "training",
+      "gala"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "silver",
+    "special_notes": "Organized intangible neural-net"
+  },
+  {
+    "client_id": "CLI-216",
+    "company_name": "Rowe, Roob and Gulgowski",
+    "industry": "healthcare",
+    "company_size": "small",
+    "avg_event_size": 147,
+    "events_per_year": 9,
+    "total_events_booked": 15,
+    "avg_budget": 87982,
+    "preferred_regions": [
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "wifi",
+      "catering",
+      "av_equipment"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "training",
+      "gala"
+    ],
+    "satisfaction_score": 3.9,
+    "loyalty_tier": "gold",
+    "special_notes": "Universal client-server forecast"
+  },
+  {
+    "client_id": "CLI-685",
+    "company_name": "Borer Inc",
+    "industry": "real_estate",
+    "company_size": "large",
+    "avg_event_size": 227,
+    "events_per_year": 8,
+    "total_events_booked": 31,
+    "avg_budget": 149026,
+    "preferred_regions": [
+      "Midwest",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "conference_center",
+      "resort"
+    ],
+    "required_amenities": [
+      "wifi",
+      "parking",
+      "catering"
+    ],
+    "event_types": [
+      "training",
+      "product_launch"
+    ],
+    "satisfaction_score": 4,
+    "loyalty_tier": "platinum",
+    "special_notes": "Proactive 24 hour attitude"
+  },
+  {
+    "client_id": "CLI-401",
+    "company_name": "Wintheiser, Beahan and Rohan",
+    "industry": "healthcare",
+    "company_size": "large",
+    "avg_event_size": 396,
+    "events_per_year": 3,
+    "total_events_booked": 12,
+    "avg_budget": 39575,
+    "preferred_regions": [
+      "Southwest",
+      "Midwest"
+    ],
+    "preferred_venue_types": [
+      "hotel"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "corporate_conference",
+      "gala",
+      "training"
+    ],
+    "satisfaction_score": 3.7,
+    "loyalty_tier": "gold",
+    "special_notes": "Stand-alone client-driven matrices"
+  },
+  {
+    "client_id": "CLI-958",
+    "company_name": "Johns and Sons",
+    "industry": "real_estate",
+    "company_size": "medium",
+    "avg_event_size": 321,
+    "events_per_year": 12,
+    "total_events_booked": 13,
+    "avg_budget": 119303,
+    "preferred_regions": [
+      "Southwest",
+      "East Coast"
+    ],
+    "preferred_venue_types": [
+      "resort"
+    ],
+    "required_amenities": [
+      "parking",
+      "wifi",
+      "catering"
+    ],
+    "event_types": [
+      "product_launch",
+      "gala"
+    ],
+    "satisfaction_score": 3.8,
+    "loyalty_tier": "platinum",
+    "special_notes": "Future-proofed systemic capacity"
+  },
+  {
+    "client_id": "CLI-638",
+    "company_name": "Cole Inc",
+    "industry": "media",
+    "company_size": "medium",
+    "avg_event_size": 345,
+    "events_per_year": 5,
+    "total_events_booked": 18,
+    "avg_budget": 115581,
+    "preferred_regions": [
+      "Midwest",
+      "East Coast",
+      "West Coast"
+    ],
+    "preferred_venue_types": [
+      "convention_center"
+    ],
+    "required_amenities": [
+      "catering",
+      "wifi",
+      "av_equipment"
+    ],
+    "event_types": [
+      "product_launch",
+      "team_building",
+      "corporate_conference"
+    ],
+    "satisfaction_score": 4.7,
+    "loyalty_tier": "bronze",
+    "special_notes": "AI-driven tangible website"
+  }
+]
