@@ -22,7 +22,7 @@
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/YOURUSERNAME/venue_recommender.git
+git clone https://github.com/MMMMMGit/AgenticAI-RAG-Demo
 cd venue_recommender
 
 # 2. Create environment
